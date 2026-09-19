@@ -14,3 +14,7 @@ ser.write(b'0')
 print("LED OFF")
 
 ser.close()
+
+git add .
+git commit - m "這次修改的內容"
+git push
